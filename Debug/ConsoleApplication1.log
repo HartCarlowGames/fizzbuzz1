@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4552: '!=': result of expression not used
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): warning C4552: '!=': result of expression not used
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bill\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): warning C4390: ';': empty controlled statement found; is this the intent?
+  ConsoleApplication1.vcxproj -> c:\users\bill\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
